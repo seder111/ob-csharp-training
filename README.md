@@ -4,8 +4,8 @@ En este git encontrarás los ejericios resueltos por **Sergio González**, del [
 
 ## Ejercicios resueltos:
 
+[1. Introducción](https://github.com/seder111/ob-csharp-training/tree/main/1.%20Introducci%C3%B3n).
+
 _Una vez finalizado el curso, dispondrás de un enlace especifico a cada tema en git con los ejercicios resueltos._
 
 Mientras tanto disponemos del enlace general.
-
-[Ejercicios actuales](https://github.com/seder111/ob-csharp-training).
