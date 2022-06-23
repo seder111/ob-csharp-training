@@ -5,6 +5,7 @@ En este git encontrarás los ejericios resueltos por **Sergio González**, del [
 ## Ejercicios resueltos:
 
 [1. Introducción](https://github.com/seder111/ob-csharp-training/tree/main/1.%20Introducci%C3%B3n).
+[2. Variables, tipos y operadores](https://github.com/seder111/ob-csharp-training/tree/main/2.%20Variables%2C%20Tipos%2C%20Operadores)
 
 _Una vez finalizado el curso, dispondrás de un enlace especifico a cada tema en git con los ejercicios resueltos._
 
