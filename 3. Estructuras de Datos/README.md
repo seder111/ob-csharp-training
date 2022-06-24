@@ -1,4 +1,4 @@
-# Ejercicios Introducción a C# 10 
+# 3. Estructuras de datos - C# 10 
 
 ## Ejercicio 1:
 

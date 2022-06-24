@@ -1,4 +1,4 @@
-# Ejercicios Introducción a C# 10 
+# 2. Variables, tipos y operadores - C# 10 
 
 ## Ejercicio 1:
 
